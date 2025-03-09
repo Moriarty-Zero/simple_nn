@@ -47,8 +47,8 @@ pip install torch nltk pandas scikit-learn
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/Moriarty-Zero/simple_nn.git
+   cd simple_nn
    ```
 
 2. Ensure the dataset file (`dataset/dataset1.csv`) is in place.
@@ -104,6 +104,14 @@ The dataset (`dataset/dataset1.csv`) should have the following structure:
 
 ## Acknowledgments
 Special thanks to the creators of PyTorch, NLTK, and the open-source community for providing the tools and resources used in this project.
+
+---
+
+## Author
+
+**Oleksiy Klymchuk**  
+[GitHub Profile](https://github.com/MoriartyZero)  
+[Email](oleksiyklumchuk@gmail.com)
 
 ---
 
